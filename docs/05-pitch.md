@@ -1,39 +1,34 @@
 # Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
-
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
-
-[Sua descrição aqui]
-
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
-
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
-
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+## Estrutura
+| Tempo	| Seção	| O que falar |
+|-------|-------|-------------|
+| 0:00 - 0:30	| Problema	| A dor que você resolve |
+| 0:30 - 1:30	| Solução	| Como o Ass.Invest Start ajuda |
+| 1:30 - 2:30	| Demo	| Mostre funcionando |
+| 2:30 - 3:00	| Diferencial	| Por que é único |
 
 ---
 
-## Checklist do Pitch
+## Roteiro do Ass.Invest Start
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+### 🎯 Problema (30 seg)
+> "Mais da metade dos brasileiros não sabe o que é uma reserva de emergência. Muitos querem aprender sobre finanças, mas não sabem por onde começar — e têm receio de fazer perguntas básicas e serem julgados."
+
+### 💡 Solução (60 seg)
+> "O Ass.Invest Start é um educador financeiro digital que ensina de forma simples e personalizada. Ele usa os próprios dados do usuário para criar exemplos práticos e relevantes. Não indica investimentos — apenas educa. É como ter um professor particular de finanças disponível 24 horas por dia."
+
+### 📱 Demo (60 seg)
+> [Compartilhe a tela e faça 2-3 perguntas ao Edu]
+
+> - "O que é CDI?"
+
+> - "Onde estou gastando mais?"
+
+> - "Me explica o Tesouro Selic"
+
+### ✨ Diferencial (30 seg)
+> "Enquanto outros chatbots dão respostas genéricas, o Edu usa os SEUS dados como referência. Isso torna o aprendizado concreto e aplicável. E o melhor: funciona 100% local, sem custo e sem enviar informações pessoais para fora."
 
 ---
 
